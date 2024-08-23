@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/multi-select-search/static/css/main.f057680a.css",
+    "main.js": "/multi-select-search/static/js/main.9bef150c.js",
+    "index.html": "/multi-select-search/index.html",
+    "main.f057680a.css.map": "/multi-select-search/static/css/main.f057680a.css.map",
+    "main.9bef150c.js.map": "/multi-select-search/static/js/main.9bef150c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f057680a.css",
+    "static/js/main.9bef150c.js"
+  ]
+}
